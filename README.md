@@ -130,6 +130,5 @@
 
 ## Контакты
 
-- **GitHub:** [ссылка на GitHub]
-- **Telegram:** [твой username]
-- **Email:** [твой email]
+- **Telegram:** [mellisaj_kzn](https://t.me/mellisaj_kzn)
+- **Email:** stoniqer@yandex.ru
